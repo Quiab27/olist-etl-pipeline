@@ -1,0 +1,6 @@
+data/raw/
+output/olist.db
+__pycache__/
+*.pyc
+output/powerbi/
+output/*.sqbpro
